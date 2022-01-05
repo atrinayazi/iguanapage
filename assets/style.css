@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: #000;
+    color: #FFF;
+    font-family: "Raleway", sans-serif;    
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+.iguanahead{
+    width: 100%;
+}
+
+.desc-section{
+    vertical-align: middle;
+    margin: 4rem;
+    font-weight: 300;
+}
+
+.text{
+    display: inline-block;
+    width: 30%;
+    padding: 2rem;
+}
+.text p{
+    margin-bottom: 1rem;
+}
+
+.desc-img1{
+    display: inline-block;
+    width: 40%;
+    margin-left: 20%;
+
+    
+}
+
+.seccion-icono{
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 4rem;
+}
+
+.icono2{
+    display: inline-block;
+    width: 30%;
+    font-size: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.icono2 p {
+    font-size: 1,5rem;
+    font-weight: 300;
+    margin: 1rem;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 2.5rem;
+    margin-bottom: 5rem;
+
+}
+
+.galeria {
+    display: inline-block;
+}
+
+.centrado{
+    display: inline-block;
+    width: 40%;
+}
+
+.centrado-fotos img{
+    display: inline-block;
+    width: 100%;
+}
+
+.footer {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 1rem;
+}
